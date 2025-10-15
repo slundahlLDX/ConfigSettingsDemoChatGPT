@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConfigSettings.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60138;http://localhost:60139"
+    }
+  }
+}
