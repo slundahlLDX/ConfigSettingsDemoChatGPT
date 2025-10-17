@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HAAVvMaOerI=",
+  "dgSpecHash": "m8ALe1X1bk4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj",
+  "projectFilePath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.9\\microsoft.extensions.configuration.9.0.9.nupkg.sha512",

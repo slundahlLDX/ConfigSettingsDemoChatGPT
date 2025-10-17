@@ -783,11 +783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj",
       "projectName": "ConfigSettings.Shared",
-      "projectPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj",
+      "projectPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Shared\\obj\\",
+      "outputPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

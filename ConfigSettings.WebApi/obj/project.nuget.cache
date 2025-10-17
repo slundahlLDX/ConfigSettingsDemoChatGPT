@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6OFZjjgziY=",
+  "dgSpecHash": "ZI+oInvGexE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.WebApi\\ConfigSettings.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.WebApi\\ConfigSettings.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\aspire.hosting\\9.5.1\\aspire.hosting.9.5.1.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\aspnetcore.healthchecks.uris\\9.0.0\\aspnetcore.healthchecks.uris.9.0.0.nupkg.sha512",

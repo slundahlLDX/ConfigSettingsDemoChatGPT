@@ -2239,11 +2239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.WinForms\\ConfigSettings.WinForms.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.WinForms\\ConfigSettings.WinForms.csproj",
       "projectName": "ConfigSettings.WinForms",
-      "projectPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.WinForms\\ConfigSettings.WinForms.csproj",
+      "projectPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.WinForms\\ConfigSettings.WinForms.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.WinForms\\obj\\",
+      "outputPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.WinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2267,8 +2267,8 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj": {
-              "projectPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj"
+            "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj": {
+              "projectPath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Shared\\ConfigSettings.Shared.csproj"
             }
           }
         }

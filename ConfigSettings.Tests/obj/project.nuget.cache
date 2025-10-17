@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b57Lgvo7/2U=",
+  "dgSpecHash": "9uXQ1ezBxRM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemo_dotnet9_full\\ConfigSettings.Tests\\ConfigSettings.Tests.csproj",
+  "projectFilePath": "C:\\Users\\steve\\OneDrive - Longevity Diagnostics\\Projects\\LdxGitHub\\ConfigSettingsDemoChatGPT\\ConfigSettings.Tests\\ConfigSettings.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
