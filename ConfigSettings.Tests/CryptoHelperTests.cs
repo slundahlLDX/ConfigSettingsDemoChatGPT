@@ -9,7 +9,7 @@ public class CryptoHelperTests
     public void EncryptDecrypt_RoundTrip_ReturnsOriginalText()
     {
         var master = "unit-test-master-key-1234567890";
-        var crypto = new CryptoHelper(master);
+        var crypto = new CryptoHelper(master, "abc");
         var salt = CryptoHelper.GenerateSalt();
         var iv = CryptoHelper.GenerateIV();
         var plain = "Hello-Unit-Test";

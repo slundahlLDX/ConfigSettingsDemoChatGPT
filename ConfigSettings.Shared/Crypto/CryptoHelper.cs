@@ -6,18 +6,24 @@ namespace ConfigSettings.Shared.Crypto;
 public sealed class CryptoHelper
 {
     private readonly string _masterKey;
+    private readonly string _pepper;     // Application-specific addition to salt
 
-    public CryptoHelper(string masterKey)
+    public CryptoHelper(string masterKey, string pepper)
     {
         if (string.IsNullOrEmpty(masterKey)) throw new ArgumentNullException(nameof(masterKey));
         _masterKey = masterKey;
+        _pepper = pepper;
+
     }
 
     public string Encrypt(string plainText, string salt, byte[] iv)
     {
+        string seasoning = salt + _pepper;
+
         if (string.IsNullOrEmpty(plainText)) return plainText;
         using var aes = Aes.Create();
-        aes.Key = DeriveKey(_masterKey, salt);
+        //aes.Key = DeriveKey(_masterKey, salt);
+        aes.Key = DeriveKey(_masterKey, seasoning);
         aes.IV = iv;
 
         using var encryptor = aes.CreateEncryptor(aes.Key, aes.IV);

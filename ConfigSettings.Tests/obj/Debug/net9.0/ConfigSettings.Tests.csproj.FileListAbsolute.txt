@@ -3,3 +3,9 @@ C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSetting
 C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemo_dotnet9_full\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.AssemblyInfoInputs.cache
 C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemo_dotnet9_full\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.AssemblyInfo.cs
 C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemo_dotnet9_full\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.AssemblyInfo.cs
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.Tests\obj\Debug\net9.0\ConfigSettings.Tests.sourcelink.json

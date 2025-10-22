@@ -32,7 +32,7 @@ internal static class Program
                 var apiBase = config["ApiSettings:BaseUrl"] ?? "http://localhost:5000/";
                 var masterKey = config["Security:MasterKey"] ?? "DevMasterKeyForDemoOnly123!";
 
-                services.AddSingleton(new CryptoHelper(masterKey));
+                services.AddSingleton(new CryptoHelper(masterKey, "abc"));
 
                 if (useLocalDb)
                 {

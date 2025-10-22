@@ -59,11 +59,11 @@
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Npgsql": {
               "target": "Package",
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -175,7 +175,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

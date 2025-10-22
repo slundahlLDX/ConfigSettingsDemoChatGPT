@@ -7,9 +7,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConfigSettings.Shared\ConfigSettings.Shared.csproj" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.9" />
-    <PackageReference Include="Microsoft.Extensions.Http.Resilience" Version="9.9.0" />
-    <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Http.Resilience" Version="9.10.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.10" />
   </ItemGroup>
 
   <ItemGroup>

@@ -123,3 +123,14 @@ C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSetting
 C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemo_dotnet9_full\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.pdb
 C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemo_dotnet9_full\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.genruntimeconfig.cache
 C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemo_dotnet9_full\ConfigSettings.WebApi\obj\Debug\net9.0\ref\ConfigSettings.WebApi.dll
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.AssemblyInfo.cs
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.sourcelink.json
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.dll
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\refint\ConfigSettings.WebApi.dll
+C:\Users\steve\OneDrive - Longevity Diagnostics\Projects\LdxGitHub\ConfigSettingsDemoChatGPT\ConfigSettings.WebApi\obj\Debug\net9.0\ConfigSettings.WebApi.pdb

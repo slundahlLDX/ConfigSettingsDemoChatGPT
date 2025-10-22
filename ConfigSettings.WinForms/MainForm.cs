@@ -104,8 +104,10 @@ public class MainForm : Form
         ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
         ResumeLayout(false);
 
-        /*
         _grid = new DataGridView { Dock = DockStyle.Top, Height = 420, ReadOnly = true, AutoGenerateColumns = true };
+
+
+
         _btnAdd = new Button { Text = "Add Encrypted", Dock = DockStyle.Left, Width = 120 };
         _btnUpdate = new Button { Text = "Update Selected", Dock = DockStyle.Left, Width = 120 };
         _btnDelete = new Button { Text = "Delete Selected", Dock = DockStyle.Left, Width = 120 };
@@ -125,7 +127,6 @@ public class MainForm : Form
         _btnAdd.Click += async (s, e) => await AddSampleAsync();
         _btnUpdate.Click += async (s, e) => await UpdateSelectedAsync();
         _btnDelete.Click += async (s, e) => await DeleteSelectedAsync();
-        */
     }
 
     private async Task LoadDataAsync()

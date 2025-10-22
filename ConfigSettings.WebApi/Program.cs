@@ -8,7 +8,7 @@ var connectionString = builder.Configuration.GetConnectionString("Postgres")
     ?? "Host=postgres;Database=settingsdb;Username=postgres;Password=postgrespwd";
 var masterKey = builder.Configuration["Security:MasterKey"] ?? "DevMasterKeyForDemoOnly123!";
 
-builder.Services.AddSingleton(new CryptoHelper(masterKey));
+builder.Services.AddSingleton(new CryptoHelper(masterKey, "abc"));
 
 builder.Services.AddSingleton<ConfigSettings.Shared.Interfaces.IConfigSettingsStrategy>(sp =>
     new PostgresConfigSettingsStrategy(connectionString, sp.GetRequiredService<CryptoHelper>(), sp.GetService<Microsoft.Extensions.Logging.ILogger<PostgresConfigSettingsStrategy>>())
